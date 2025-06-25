@@ -1,0 +1,45 @@
+CreateCharacter(Merlin)
+
+Merlin.SetPosition(0.5 0)
+
+Merlin.Show()
+
+Merlin "answer"
+
+choice "What Place Do You Prefer?"
+{
+    -Tree
+        Merlin "So your a fauna lover?"
+        <mainChar> "yup"
+        Merlin "i know a place {wc 0.5} follow me"
+        Load(testFile1)
+   
+    -Cave
+        Merlin "Cave? {wa 0.5} why?"
+        <mainChar> "here is why"       
+        Load(testFile2)
+    
+    -Somewhere shinny
+        Merlin "you too?"
+        <mainChar> "yes, {wa 0.5} i know a place, {wa 0.5} want to come over? "
+        Merlin "ofc!"
+        Load(testFile3)
+}
+
+
+wait(1)
+
+Input "what is your name"
+
+$myName = <input>
+s
+
+<mainChar> "nope, $myName, im level <playerLevel>"
+
+
+
+
+
+
+
+
