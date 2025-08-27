@@ -1,0 +1,29 @@
+hidedb(-i true)
+SetLayerMedia(background phancanh5.1), playsong(travel)
+CreateCharacter(Wanderer), CreateCharacter(DarkKnight)
+Wanderer.SetPosition(0.15 0), DarkKnight.SetPosition(0.75 0)
+wait(2)
+showdb(-i true)
+DarkKnight "Why walk this dark path, stranger?"
+DarkKnight.flip(-i true)
+DarkKnight.Show()
+wait(1)
+Wanderer.Show()
+Wanderer "It's over... don't make this harder. Just give me the Elden Rune"
+DarkKnight "If... if you really care about the world... then why... why are you listening to him?"
+wait(1)
+DarkKnight.Hide()
+wait(1)
+Wanderer "What him?"
+Wanderer.SetPosition(0.65 0)
+wait(1)
+Wanderer.flip(-i true)
+Wanderer "Merlin, do you have any clue who he means?"
+wait(1)
+stopsong(travel)
+wait(1)
+Wanderer.flip(-i true), playsfx(dramatic)
+Wanderer "Huh?"
+
+wait(2)
+loadnextscene(PhanCanh6)

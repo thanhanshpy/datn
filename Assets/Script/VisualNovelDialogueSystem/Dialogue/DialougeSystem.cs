@@ -1,11 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
-using TMPro;
-using NUnit.Framework;
-using UnityEngine.Rendering;
 using Characters;
-using NUnit.Framework.Api;
-using System;
 
 namespace Dialouge
 {
@@ -33,6 +28,7 @@ namespace Dialouge
             {
                 instance = this;
                 Initialize();
+                //DontDestroyOnLoad(gameObject);
             }
                 
             else
@@ -50,7 +46,8 @@ namespace Dialouge
             cgController = new CanvasGroupController(this, mainCanvas);
             dialougeContainer.Initialized();
 
-            if(TryGetComponent(out autoReader))
+            autoReader = GetComponent<AutoReader>();
+            if (TryGetComponent(out autoReader))
             {
                 autoReader.Initialize(conversationManager);
             }
@@ -107,7 +104,7 @@ namespace Dialouge
         public void ShowSpeakerName(string speakerName = "")
         {
             //if (speakerName.ToLower() != "ya")
-            if (!string.IsNullOrEmpty(speakerName))
+            if (!string.IsNullOrEmpty(speakerName) || speakerName.ToLower() != "narrator")
             {
                 dialougeContainer.nameContainer.Show(speakerName);
             }

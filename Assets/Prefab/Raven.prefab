@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 8982022468690190469}
   - component: {fileID: 1881573171277594699}
   - component: {fileID: 2615145355963045645}
-  - component: {fileID: 6874053909366015959}
+  - component: {fileID: 4655913457453244586}
   m_Layer: 7
   m_Name: Raven
   m_TagString: Untagged
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69794bd25377d374ca64cf90aa9a7375, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHp: 50
+  _maxHp: 20
   Damaged:
     m_PersistentCalls:
       m_Calls: []
@@ -167,6 +167,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   phase2:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerUlt:
     m_PersistentCalls:
       m_Calls: []
 --- !u!61 &8982022468690190469
@@ -203,17 +206,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.03999999, y: 0.855}
+  m_Offset: {x: 0.03999999, y: 0.21499999}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.45454547, y: -0.5058824}
+    pivot: {x: 0.45454547, y: 0.24705882}
     oldSize: {x: 0.88, y: 0.85}
     newSize: {x: 0.88, y: 0.85}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.88, y: 0.84999996}
+  m_Size: {x: 0.88, y: 0.85}
   m_EdgeRadius: 0
 --- !u!50 &1881573171277594699
 Rigidbody2D:
@@ -276,10 +279,10 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.03747333, y: 0.76771945}
-  m_Size: {x: 0.3713645, y: 0.3713645}
+  m_Offset: {x: 0.039999988, y: 0.12}
+  m_Size: {x: 0.55, y: 0.43}
   m_Direction: 0
---- !u!114 &6874053909366015959
+--- !u!114 &4655913457453244586
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -288,6 +291,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2687459807347131846}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfa435ddbbbd58346b79dae83d8980e6, type: 3}
+  m_Script: {fileID: 11500000, guid: b9662454673eb034d9fe41f601550aaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

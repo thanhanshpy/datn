@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -75,7 +76,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     mosaicPadding: 4
     spritePadding: 0
@@ -88,7 +89,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     mosaicPadding: 4
     spritePadding: 0
@@ -97,7 +98,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638849225961191663
+  platformSettingsDirtyTick: 638895902061078226
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -124,7 +125,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Frame_0
     originalName: 
-    pivot: {x: 0.5, y: -1.15}
+    pivot: {x: 0.5, y: 0.45000002}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -145,7 +146,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 182}
   - name: Frame_1
     originalName: 
-    pivot: {x: 0.5, y: -1.0697675}
+    pivot: {x: 0.5, y: 0.41860464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -166,7 +167,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 65}
   - name: Frame_2
     originalName: 
-    pivot: {x: 0.52577317, y: -0.8490566}
+    pivot: {x: 0.52577317, y: 0.3584906}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -187,7 +188,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Frame_3
     originalName: 
-    pivot: {x: 0.50666666, y: -0.46551725}
+    pivot: {x: 0.50666666, y: 0.63793105}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -209,7 +210,12 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1445796219
+    uuid:
+      value0: 696029479
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 696029479
     name: bat
     layerFlags: 0
     layerType: 0
@@ -294,3 +300,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 128, y: 128}
+  previousTextureSize: {x: 128, y: 256}

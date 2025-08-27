@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 using Dialouge;
 using TMPro;
-using UnityEngine.Video;
-using UnityEditor;
+
 
 
 namespace Characters

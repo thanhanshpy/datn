@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: f5f4ebfe850c18a428b459427b40135e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6521397116690738923
+    second: DarkKnight-Sheet_0
+  - first:
+      213: 2911403719130169284
+    second: DarkKnight-Sheet_1
+  - first:
+      213: -786325053955147142
+    second: DarkKnight-Sheet_2
+  - first:
+      213: -3164404917397466594
+    second: DarkKnight-Sheet_3
+  - first:
+      213: -8929808884329373572
+    second: DarkKnight-Sheet_4
+  - first:
+      213: -3407726107032160512
+    second: DarkKnight-Sheet_5
+  - first:
+      213: -5069238035596945400
+    second: DarkKnight-Sheet_6
+  - first:
+      213: -3917759945643921639
+    second: DarkKnight-Sheet_7
+  - first:
+      213: 6776613284871871020
+    second: DarkKnight-Sheet_8
+  - first:
+      213: 2109921021298799231
+    second: DarkKnight-Sheet_9
+  - first:
+      213: -8958257664874159367
+    second: DarkKnight-Sheet_10
+  - first:
+      213: -7648801052760316055
+    second: DarkKnight-Sheet_11
+  - first:
+      213: -8110608993200260660
+    second: DarkKnight-Sheet_12
+  - first:
+      213: 3229768629086637527
+    second: DarkKnight-Sheet_13
+  - first:
+      213: 7592448909327726975
+    second: DarkKnight-Sheet_14
+  - first:
+      213: -327731122083202403
+    second: DarkKnight-Sheet_15
+  - first:
+      213: -5832792636155740200
+    second: DarkKnight-Sheet_16
+  - first:
+      213: 7987097705839362758
+    second: DarkKnight-Sheet_17
+  - first:
+      213: -341792770231029264
+    second: DarkKnight-Sheet_18
+  - first:
+      213: 4714085983691069304
+    second: DarkKnight-Sheet_19
+  - first:
+      213: -7309836335044282724
+    second: DarkKnight-Sheet_20
+  - first:
+      213: 7290424968292432046
+    second: DarkKnight-Sheet_21
+  - first:
+      213: 1361055479170076270
+    second: DarkKnight-Sheet_22
+  - first:
+      213: 5010000357475153129
+    second: DarkKnight-Sheet_23
+  - first:
+      213: 2206446057480959610
+    second: DarkKnight-Sheet_24
+  - first:
+      213: -1038097457201566544
+    second: DarkKnight-Sheet_25
+  - first:
+      213: 3578107123276951751
+    second: DarkKnight-Sheet_26
+  - first:
+      213: 250166711301983140
+    second: DarkKnight-Sheet_27
+  - first:
+      213: -4890457654191414610
+    second: DarkKnight-Sheet_28
+  - first:
+      213: 369115764872527811
+    second: DarkKnight-Sheet_29
+  - first:
+      213: -4973215760420167793
+    second: DarkKnight-Sheet_30
+  - first:
+      213: 2038403984223036006
+    second: DarkKnight-Sheet_31
+  - first:
+      213: -5829170793329283459
+    second: DarkKnight-Sheet_32
+  - first:
+      213: -1841162923620191778
+    second: DarkKnight-Sheet_33
+  - first:
+      213: -8613328307161564200
+    second: DarkKnight-Sheet_34
+  - first:
+      213: 5931888528738477973
+    second: DarkKnight-Sheet_35
+  - first:
+      213: -415766549376779989
+    second: DarkKnight-Sheet_36
+  - first:
+      213: 3864704796435468297
+    second: DarkKnight-Sheet_37
+  - first:
+      213: -5604983397988844987
+    second: DarkKnight-Sheet_38
+  - first:
+      213: 5090661395308569292
+    second: DarkKnight-Sheet_39
+  - first:
+      213: -112994366236053000
+    second: DarkKnight-Sheet_40
+  - first:
+      213: -7098748210081556008
+    second: DarkKnight-Sheet_41
+  - first:
+      213: -3953431894956180247
+    second: DarkKnight-Sheet_42
+  - first:
+      213: -5541442617606117137
+    second: DarkKnight-Sheet_43
+  - first:
+      213: 2657794270840574327
+    second: DarkKnight-Sheet_44
+  - first:
+      213: 5292438755016757227
+    second: DarkKnight-Sheet_45
+  - first:
+      213: -5255057791144217752
+    second: DarkKnight-Sheet_46
+  - first:
+      213: 3424354027663091045
+    second: DarkKnight-Sheet_47
+  - first:
+      213: 1074738609066512618
+    second: DarkKnight-Sheet_48
+  - first:
+      213: 1467632268618743834
+    second: DarkKnight-Sheet_49
+  - first:
+      213: -7369645603298344276
+    second: DarkKnight-Sheet_50
+  - first:
+      213: -1798343248191894001
+    second: DarkKnight-Sheet_51
+  - first:
+      213: 5879948091061641799
+    second: DarkKnight-Sheet_52
+  - first:
+      213: -5660998423128950366
+    second: DarkKnight-Sheet_53
+  - first:
+      213: 6350045409611480769
+    second: DarkKnight-Sheet_54
+  - first:
+      213: 6167915110026556108
+    second: DarkKnight-Sheet_55
+  - first:
+      213: -8607739868606809202
+    second: DarkKnight-Sheet_56
+  - first:
+      213: -6411792200532103442
+    second: DarkKnight-Sheet_57
+  - first:
+      213: 1078026575071486899
+    second: DarkKnight-Sheet_58
+  - first:
+      213: -8663146605869144330
+    second: DarkKnight-Sheet_59
+  - first:
+      213: -707219960500915889
+    second: DarkKnight-Sheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 59
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511546ccfd75f75a0800000000000000
+      internalID: -6521397116690738923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 79
+        width: 59
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf318cd142676820800000000000000
+      internalID: 2911403719130169284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 79
+        width: 59
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a730197896615f0800000000000000
+      internalID: -786325053955147142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 79
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12560d4e76c514d0800000000000000
+      internalID: -3164404917397466594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 79
+        width: 55
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ab61c122f21480800000000000000
+      internalID: -8929808884329373572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 79
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f58a192355b0d0800000000000000
+      internalID: -3407726107032160512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 79
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80858565dd276a9b0800000000000000
+      internalID: -5069238035596945400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 79
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fe3ac261251a9c0800000000000000
+      internalID: -3917759945643921639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7597
+        y: 190
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a1bf8e0ed5b0e50800000000000000
+      internalID: 6776613284871871020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 79
+        width: 205
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72f4a27df1f74d10800000000000000
+      internalID: 2109921021298799231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 7961
+        y: 79
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f261cedd10eda380800000000000000
+      internalID: -8958257664874159367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8224
+        y: 136
+        width: 165
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9676694b7fff9d590800000000000000
+      internalID: -7648801052760316055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8470
+        y: 148
+        width: 169
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b530b714517f80800000000000000
+      internalID: -8110608993200260660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 212
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc863c47172dc20800000000000000
+      internalID: 3229768629086637527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 9312
+        y: 79
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79f7c77e0ccd5960800000000000000
+      internalID: 7592448909327726975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9575
+        y: 79
+        width: 46
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af366e74aa37bf0800000000000000
+      internalID: -327731122083202403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9835
+        y: 79
+        width: 41
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3c693002cd0fa0800000000000000
+      internalID: -5832792636155740200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10089
+        y: 79
+        width: 44
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c284e6cb0fd7de60800000000000000
+      internalID: 7987097705839362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 79
+        width: 59
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1359f4945b14bf0800000000000000
+      internalID: -341792770231029264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 79
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877dd82d93ccb6140800000000000000
+      internalID: 4714085983691069304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 79
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96317b159e3e8a90800000000000000
+      internalID: -7309836335044282724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 79
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea875b0e1eacc2560800000000000000
+      internalID: 7290424968292432046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 79
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e08834fb073e210800000000000000
+      internalID: 1361055479170076270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 79
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4f2efe7c8178540800000000000000
+      internalID: 5010000357475153129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 79
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b630cffede9e10800000000000000
+      internalID: 2206446057480959610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 79
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca34ddcdfe791f0800000000000000
+      internalID: -1038097457201566544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 79
+        width: 201
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0b733987df7a130800000000000000
+      internalID: 3578107123276951751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 79
+        width: 221
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab48c96c45c87300800000000000000
+      internalID: 250166711301983140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 79
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a4dc9caa912cb0800000000000000
+      internalID: -4890457654191414610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 79
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf393e15dc5f1500800000000000000
+      internalID: 369115764872527811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 79
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f18c87d969bfab0800000000000000
+      internalID: -4973215760420167793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 79
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ea5caf9dd94c10800000000000000
+      internalID: 2038403984223036006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 79
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ea6883c00aa1fa0800000000000000
+      internalID: -5829170793329283459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 79
+        width: 123
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bffb6310e276e0800000000000000
+      internalID: -1841162923620191778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 7218
+        y: 117
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db71dd3a8f477880800000000000000
+      internalID: -8613328307161564200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7472
+        y: 132
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ebaa303d425250800000000000000
+      internalID: 5931888528738477973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 7481
+        y: 157
+        width: 156
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2938e2b686ea3af0800000000000000
+      internalID: -415766549376779989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 8229
+        y: 79
+        width: 201
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d849498032a530800000000000000
+      internalID: 3864704796435468297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 8385
+        y: 175
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab9e6cb491732b0800000000000000
+      internalID: -5604983397988844987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 8481
+        y: 79
+        width: 221
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2692b4199a5a640800000000000000
+      internalID: 5090661395308569292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 8497
+        y: 142
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f131eaf8309e6ef0800000000000000
+      internalID: -112994366236053000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 8740
+        y: 79
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9162c1d1e2c7d90800000000000000
+      internalID: -7098748210081556008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 79
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecff6143a69229c0800000000000000
+      internalID: -3953431894956180247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 9031
+        y: 79
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe860629c47d813b0800000000000000
+      internalID: -5541442617606117137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 79
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7715587cec162e420800000000000000
+      internalID: 2657794270840574327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 79
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc844d105827940800000000000000
+      internalID: 5292438755016757227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 79
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86333bc08c84217b0800000000000000
+      internalID: -5255057791144217752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 79
+        width: 152
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565690c58dfb58f20800000000000000
+      internalID: 3424354027663091045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 79
+        width: 158
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09ecb121d3aee00800000000000000
+      internalID: 1074738609066512618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 79
+        width: 153
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10cbefb5c31e5410800000000000000
+      internalID: 1467632268618743834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 7207
+        y: 79
+        width: 195
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca202eeae52c9b990800000000000000
+      internalID: -7369645603298344276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 79
+        width: 165
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ecc4308500b07e0800000000000000
+      internalID: -1798343248191894001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 7653
+        y: 132
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422771b2a5c99150800000000000000
+      internalID: 5879948091061641799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 8223
+        y: 144
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93a5b6de71071b0800000000000000
+      internalID: -5660998423128950366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 10333
+        y: 79
+        width: 149
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cefd73f7a4ef1850800000000000000
+      internalID: 6350045409611480769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 117
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2b5e11d16d89550800000000000000
+      internalID: 6167915110026556108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 8470
+        y: 92
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b39bcf13a2b8880800000000000000
+      internalID: -8607739868606809202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 70
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeee9a9f6fcb407a0800000000000000
+      internalID: -6411792200532103442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 65
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32199557be5fe00800000000000000
+      internalID: 1078026575071486899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 60
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e900bf0256c780800000000000000
+      internalID: -8663146605869144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkKnight-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f64461337f26f0800000000000000
+      internalID: -707219960500915889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkKnight-Sheet_0: -6521397116690738923
+      DarkKnight-Sheet_1: 2911403719130169284
+      DarkKnight-Sheet_10: -8958257664874159367
+      DarkKnight-Sheet_11: -7648801052760316055
+      DarkKnight-Sheet_12: -8110608993200260660
+      DarkKnight-Sheet_13: 3229768629086637527
+      DarkKnight-Sheet_14: 7592448909327726975
+      DarkKnight-Sheet_15: -327731122083202403
+      DarkKnight-Sheet_16: -5832792636155740200
+      DarkKnight-Sheet_17: 7987097705839362758
+      DarkKnight-Sheet_18: -341792770231029264
+      DarkKnight-Sheet_19: 4714085983691069304
+      DarkKnight-Sheet_2: -786325053955147142
+      DarkKnight-Sheet_20: -7309836335044282724
+      DarkKnight-Sheet_21: 7290424968292432046
+      DarkKnight-Sheet_22: 1361055479170076270
+      DarkKnight-Sheet_23: 5010000357475153129
+      DarkKnight-Sheet_24: 2206446057480959610
+      DarkKnight-Sheet_25: -1038097457201566544
+      DarkKnight-Sheet_26: 3578107123276951751
+      DarkKnight-Sheet_27: 250166711301983140
+      DarkKnight-Sheet_28: -4890457654191414610
+      DarkKnight-Sheet_29: 369115764872527811
+      DarkKnight-Sheet_3: -3164404917397466594
+      DarkKnight-Sheet_30: -4973215760420167793
+      DarkKnight-Sheet_31: 2038403984223036006
+      DarkKnight-Sheet_32: -5829170793329283459
+      DarkKnight-Sheet_33: -1841162923620191778
+      DarkKnight-Sheet_34: -8613328307161564200
+      DarkKnight-Sheet_35: 5931888528738477973
+      DarkKnight-Sheet_36: -415766549376779989
+      DarkKnight-Sheet_37: 3864704796435468297
+      DarkKnight-Sheet_38: -5604983397988844987
+      DarkKnight-Sheet_39: 5090661395308569292
+      DarkKnight-Sheet_4: -8929808884329373572
+      DarkKnight-Sheet_40: -112994366236053000
+      DarkKnight-Sheet_41: -7098748210081556008
+      DarkKnight-Sheet_42: -3953431894956180247
+      DarkKnight-Sheet_43: -5541442617606117137
+      DarkKnight-Sheet_44: 2657794270840574327
+      DarkKnight-Sheet_45: 5292438755016757227
+      DarkKnight-Sheet_46: -5255057791144217752
+      DarkKnight-Sheet_47: 3424354027663091045
+      DarkKnight-Sheet_48: 1074738609066512618
+      DarkKnight-Sheet_49: 1467632268618743834
+      DarkKnight-Sheet_5: -3407726107032160512
+      DarkKnight-Sheet_50: -7369645603298344276
+      DarkKnight-Sheet_51: -1798343248191894001
+      DarkKnight-Sheet_52: 5879948091061641799
+      DarkKnight-Sheet_53: -5660998423128950366
+      DarkKnight-Sheet_54: 6350045409611480769
+      DarkKnight-Sheet_55: 6167915110026556108
+      DarkKnight-Sheet_56: -8607739868606809202
+      DarkKnight-Sheet_57: -6411792200532103442
+      DarkKnight-Sheet_58: 1078026575071486899
+      DarkKnight-Sheet_59: -8663146605869144330
+      DarkKnight-Sheet_6: -5069238035596945400
+      DarkKnight-Sheet_60: -707219960500915889
+      DarkKnight-Sheet_7: -3917759945643921639
+      DarkKnight-Sheet_8: 6776613284871871020
+      DarkKnight-Sheet_9: 2109921021298799231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

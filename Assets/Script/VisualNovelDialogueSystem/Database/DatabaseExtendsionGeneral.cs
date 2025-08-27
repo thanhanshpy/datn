@@ -25,12 +25,18 @@ namespace Commands
 
             database.AddCommand("load", new Action<string[]>(LoadNewDialogueFile));
             database.AddCommand("setplayername", new Action<string>(SetPlayerNameVariable));
+
+            database.AddCommand("loadnextscene", new Action<string>(LoadNextScene));
+        }
+        private static void LoadNextScene(string data)
+        {
+            SceneManager.LoadScene(data);
         }
         private static void SetPlayerNameVariable(string data)
         {
             VisualNovel.VNGameSave.activeFile.playerName = data;
         }
-        private static void LoadNewDialogueFile(string[] data)
+        public static void LoadNewDialogueFile(string[] data)
         {
             string fileName = string.Empty;
             bool enqueue = false;

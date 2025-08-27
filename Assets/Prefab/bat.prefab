@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5652913276751104201}
   - component: {fileID: 8863657316237519951}
   - component: {fileID: 7016074379501031211}
-  - component: {fileID: 1891022869452746317}
+  - component: {fileID: 6250118193782531326}
   m_Layer: 7
   m_Name: bat
   m_TagString: Untagged
@@ -150,17 +150,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.66}
+  m_Offset: {x: 0, y: 0.019999996}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: -1.15}
+    pivot: {x: 0.5, y: 0.45000002}
     oldSize: {x: 1.06, y: 0.4}
     newSize: {x: 1.06, y: 0.4}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.06, y: 0.39999998}
+  m_Size: {x: 1.06, y: 0.4}
   m_EdgeRadius: 0
 --- !u!114 &3003223149343011602
 MonoBehaviour:
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69794bd25377d374ca64cf90aa9a7375, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHp: 50
+  _maxHp: 20
   Damaged:
     m_PersistentCalls:
       m_Calls: []
@@ -200,6 +200,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   phase2:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerUlt:
     m_PersistentCalls:
       m_Calls: []
 --- !u!50 &5652913276751104201
@@ -276,10 +279,10 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0064173318, y: 0.656259}
-  m_Size: {x: 0.63179755, y: 0.3398597}
+  m_Offset: {x: 0, y: 0.02}
+  m_Size: {x: 0.41, y: 0.3}
   m_Direction: 1
---- !u!114 &1891022869452746317
+--- !u!114 &6250118193782531326
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -288,6 +291,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6695730918708622958}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfa435ddbbbd58346b79dae83d8980e6, type: 3}
+  m_Script: {fileID: 11500000, guid: b9662454673eb034d9fe41f601550aaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 810d8024098f44c48ab45379f5171931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1058437282687456755
+    second: Merlin-Sheet_0
+  - first:
+      213: 3850166233107719289
+    second: Merlin-Sheet_1
+  - first:
+      213: 3685188951693012951
+    second: Merlin-Sheet_2
+  - first:
+      213: 1504868568830313230
+    second: Merlin-Sheet_3
+  - first:
+      213: -3146011003314673420
+    second: Merlin-Sheet_4
+  - first:
+      213: -1260944232317895705
+    second: Merlin-Sheet_5
+  - first:
+      213: -6424511331907279211
+    second: Merlin-Sheet_6
+  - first:
+      213: -634486344249254287
+    second: Merlin-Sheet_7
+  - first:
+      213: 263354399910729069
+    second: Merlin-Sheet_8
+  - first:
+      213: 4936657029733151288
+    second: Merlin-Sheet_9
+  - first:
+      213: -1445826661716475777
+    second: Merlin-Sheet_10
+  - first:
+      213: 720811501022326362
+    second: Merlin-Sheet_11
+  - first:
+      213: 3704808241791757944
+    second: Merlin-Sheet_12
+  - first:
+      213: -1534571195069118474
+    second: Merlin-Sheet_13
+  - first:
+      213: -2775803009028556588
+    second: Merlin-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merlin-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 400
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a626436ecaf41f0800000000000000
+      internalID: -1058437282687456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 400
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e69a3ac98e6530800000000000000
+      internalID: 3850166233107719289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 400
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2bdb93db642330800000000000000
+      internalID: 3685188951693012951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 400
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0308ce7dfd52e410800000000000000
+      internalID: 1504868568830313230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 272
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f865f729af1754d0800000000000000
+      internalID: -3146011003314673420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 272
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb3d17c6e9308ee0800000000000000
+      internalID: -1260944232317895705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 272
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596e13e6bfc87d6a0800000000000000
+      internalID: -6424511331907279211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 272
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17edf24180ad137f0800000000000000
+      internalID: -634486344249254287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6517b07e6f97a300800000000000000
+      internalID: 263354399910729069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832fd2bb967828440800000000000000
+      internalID: 4936657029733151288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c99dbf446febe0800000000000000
+      internalID: -1445826661716475777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 144
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ea37cbd36d00a00800000000000000
+      internalID: 720811501022326362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 16
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eefec877f1a6330800000000000000
+      internalID: 3704808241791757944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 16
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cb5be0ab14bae0800000000000000
+      internalID: -1534571195069118474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87460cedd5a79d0800000000000000
+      internalID: -2775803009028556588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b0e8b1ea5c757c541a93b86a771d18bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Merlin-Sheet_0: -1058437282687456755
+      Merlin-Sheet_1: 3850166233107719289
+      Merlin-Sheet_10: -1445826661716475777
+      Merlin-Sheet_11: 720811501022326362
+      Merlin-Sheet_12: 3704808241791757944
+      Merlin-Sheet_13: -1534571195069118474
+      Merlin-Sheet_14: -2775803009028556588
+      Merlin-Sheet_2: 3685188951693012951
+      Merlin-Sheet_3: 1504868568830313230
+      Merlin-Sheet_4: -3146011003314673420
+      Merlin-Sheet_5: -1260944232317895705
+      Merlin-Sheet_6: -6424511331907279211
+      Merlin-Sheet_7: -634486344249254287
+      Merlin-Sheet_8: 263354399910729069
+      Merlin-Sheet_9: 4936657029733151288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

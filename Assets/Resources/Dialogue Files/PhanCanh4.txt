@@ -1,0 +1,102 @@
+SetLayerMedia(background phancanh3.3), PlaySong(victory-loop)
+CreateCharacter(Merlin), CreateCharacter(Wanderer), CreateCharacter(Seigneur)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.45 0), Seigneur.SetPosition(0.9 0)
+hidedb(-i true)
+wait(2)
+showdb(2f -i false)
+wait(1)
+Seigneur.Show()
+wait(1)
+Wanderer.Show()
+Merlin.Show()
+
+Seigneur "No, this is impossible!"
+Merlin "You're standing before the very people who defeated a storm. Have you forgotten?"
+Wanderer "Actually, I was the one who took it down, alone..."
+Merlin.flip(-i true)
+Merlin "Shut up Wanderer!"
+Wanderer "..."
+wait(1)
+Merlin.flip(-i true)
+Merlin "Alright, time to give back what's ours and add yours to the pile you old man"
+Seigneur "..."
+Merlin "Hurry up, or your chance to stay on that throne will vanish, just like the demon you summoned"
+Seigneur "Fine fine, just take it"
+Merlin "Wanderer"
+Wanderer "Try barking orders at someone who cares"
+Merlin.flip(-i true)
+Merlin "What did you just say?!"
+Wanderer "Nothing!"
+Wanderer.SetPosition(0.7 0)
+wait(1)
+Wanderer.SetPosition(0.15 0)
+Wanderer "Here you go"
+Merlin "Isn't that just easy?"
+Merlin.flip(-i true)
+Merlin "Now go back to your throne and cry over your pathetic dream of ruling the world on that ridiculous seat of yours, or whatever. I don't give a damn"
+Merlin "And if you even dare to think about doing something like this again, I'll make sure it's the last time that old brain of yours ever functions"
+Wanderer "..."
+Seigneur "..."
+Merlin "What's wrong? Cat got your tongue already?"
+Seigneur "I... I understand"
+Merlin "Get out of my sight"
+wait(1)
+Seigneur.Hide()
+Merlin.flip(-i true)
+Wanderer "..."
+Merlin "What?"
+Wanderer "Your really let that scumbags go?"
+Merlin "No, I made the knight believe he could take the throne by taking down that old man"
+Wanderer "But if the knight does that, won't he be executed for assassinating the lord?"
+Merlin "Yes"
+Wanderer "What?"
+Merlin "Anyway, no time to waste, let's go"
+Merlin.flip(-i true)
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+Wanderer "..."
+wait(1)
+Wanderer.SetPosition(0.9 0)
+Wanderer.Hide()
+stopsong(victory-loop)
+
+wait(1)
+hidedb(-i true)
+wait(1)
+SetLayerMedia(background phancanh4.1), playsong(elves)
+wait(1)
+Wanderer "What now? Do we have to fight some kind of tree monster in this willow jungle or what"
+showdb(-i true)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.75 0)
+Merlin.flip(-i true)
+Merlin.Show()
+Wanderer.Show()
+Merlin "No. Even though the Elden Rune has conjured a lot of magic here, there doesn't seem to be any monsters nearby this maze"
+Wanderer "Really? Thanks god, I'm tired of fighting everything. A living storm and a demon from hell are more than enough to traumatize any normal person"
+Wanderer "Wait..."
+Merlin "Yes?"
+Wanderer "Did you just say maze?"
+Merlin "Yes...?"
+Merlin "Aww, is the little Wanderer afraid of a maze?"
+Wanderer "No... it just..."
+Merlin "Just what? Scared you'll get lost in this maze, just like you are with yourself?"
+Wanderer "What? No! Yeah, I'm scared but not for the reason you said. I've just never been in a maze before, so I'm worried I might get lost"
+Merlin "Nah don't worry"
+Wanderer "What do you mean? Ohhhh...."
+Wanderer "You're right, we have your Elden Rune tracking skill"
+Merlin "Actually no, there's too much magic surrounding this place, I can't sense the Elden Rune"
+Wanderer "..."
+Wanderer "Then how are we supposed to find it?"
+Merlin "Just the usual way, keep moving forward and solve the maze"
+Merlin.flip(-i true)
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+Wanderer "..."
+Wanderer "This lady is so careless, how has she managed to survive until now?"
+Wanderer "Wait, I forgot to ask Merlin what we're going to do with those Elden Runes!"
+Wanderer "Merlin, wait!"
+Wanderer.SetPosition(0.9 0)
+Wanderer.Hide()
+
+wait(1)
+loadnextscene(PhanCanh4)

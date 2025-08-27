@@ -24,6 +24,7 @@ namespace Characters
         {
             CharacterConfigData result = new CharacterConfigData();
 
+            //result.sprites = sprites;
             result.name = name;
             result.alias = alias;
             result.characterType = characterType;

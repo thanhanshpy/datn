@@ -1,0 +1,217 @@
+SetLayerMedia(background battlefield1), playsong(Sonder)
+CreateCharacter(Merlin), CreateCharacter(Wanderer), CreateCharacter(Seigneur), CreateCharacter(NPC)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.75 0)
+
+hidedb(-i true)
+wait(2)
+showdb(2f -i false)
+wait(1)
+Wanderer.Show()
+wait(1)
+Merlin.Show()
+
+Wanderer "What a tough fight"
+Merlin "Who would've thought... that one day, we'd slay a storm itself?"
+Wanderer "A storm... alive? That makes it even more..."
+Merlin.flip(-i true)
+Merlin "Unbelievable?"
+Wanderer "Well, we are in a magical world so it can happen, right?"
+Merlin "Oh right! I forgot that point"
+Wanderer "..."
+Merlin "What?"
+Wanderer "You're a witch..."
+Merlin "And?"
+Wanderer "..."
+Merlin "... Oh take a look at this!"
+Merlin.flip(-i true)
+Wanderer "What is that?"
+Merlin "It fell from the storm right after you struck it down"
+Wanderer "Let me guess, this is a Elden Rune?"
+Merlin.flip(-i true)
+Merlin "Indeed! And more importantly, having one means we can track the others more easily now"
+Wanderer "Wait... there's more than one?"
+Merlin "..."
+Wanderer "..."
+Merlin "The only thing that impresses me more than your fighting skills is how little you actually know Wanderer"
+Wanderer "Of course I am, I only just learned there's something called an Elden Rune in this world"
+Merlin "Guess it's my duty to teach you more about this world"
+Wanderer "Right right whatever, but wait Merlin"
+Merlin "Yes?"
+Wanderer "So, collecting the Elden Runes is what this is all about?"
+Merlin "Bingo!"
+Wanderer "Why is it so important to collect all the Elden Runes?"
+Merlin "We'll talk about that later. I've just detected another Elden Rune!"
+
+Merlin.flip(-i true)
+Merlin "Let's go!"
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+stopsong(Sonder)
+Wanderer "..."
+
+SetLayerMedia(background phancanh3.1), playsong(classical-royal-british)
+hidedb(-i true), Wanderer.Hide()
+wait(1)
+Seigneur "Here they are, our brave savior!"
+showdb(2f -i false)
+Wanderer.SetPosition(0.1 0), Merlin.SetPosition(0.35 0), Seigneur.SetPosition(0.9 0)
+Wanderer.Show(), Merlin.Show(), Seigneur.Show()
+
+Seigneur "You have my deepest gratitude, brave savior not just mine, but that of my people as well"
+Merlin "You're welcome, sir. We couldn't stand by while that storm tormented the villagers"
+Wanderer.flip(-i true)
+Seigneur "That terrible storm has ravaged our land for so long. As the lord here, being powerless to stop it fills me with shame"
+Merlin "Don't blame yourself. Even the Wanderer and I had a hard time bringing down that massive storm. We were risking our lives the whole way. Right, Wanderer?"
+Wanderer.flip(-i true)
+Wanderer "Huh?... {wa 1}Yeah... {wa 1}True true"
+Seigneur "Would you two mighty warriors honor this old lord by sharing how you managed to overcome such a force of nature?"
+Merlin "Normally, no sword can bring down a storm... but this one wasn't ordinary"
+Seigneur "Oh? Really?"
+Merlin "It was created by one of the Elden Runes, which contained so much energy that it formed a body of its own and it seemed to have developed a consciousness"
+Seigneur "It's hard to believe... that the Elden Runes can give rise to such unimaginable creations"
+Merlin "Indeed, Who would have thought that those manipulative notion Runes, meant to seal the Demon Lord, could possess such great power"
+Wanderer "Who?"
+Merlin "..."
+Seigneur "..."
+Merlin "Pardon my partner. He's not exactly full of common knowledge, but that doesn't stop him from cracking jokes constantly"
+Seigneur "Oh! I see"
+Wanderer "I'm not jok..."
+Merlin "Not another word Wanderer"
+Wanderer "..."
+Seigneur "..."
+Seigneur "As a token of my deepest gratitude, I invite you, our noble saviors, to attend the ceremony tonight. You are welcome to explore the castle at your leisure"
+Wanderer.flip(-i true)
+Merlin "Much appreciated, sir"
+Wanderer"..."
+Merlin "Show some respect Wanderer!"
+Wanderer.flip(-i true)
+Wanderer "Uhh... Th... Thank you my Lord"
+Seigneur "..."
+Merlin "..."
+Seigneur "Until later, brave saviors. May you find rest within these walls"
+
+Seigneur.Hide()
+stopsong(classical-royal-british)
+wait(1)
+
+Merlin.SetPosition(0.75 0)
+Merlin.flip(-i true)
+
+Merlin "..."
+Wanderer "..."
+Merlin "I'd question your intelligence, but I don't have the energy right now"
+Wanderer "..."
+Merlin "How can you not even know how to behave in front of the most powerful person in this land?!"
+Wanderer "Did you just..."
+Merlin "Forget it. Just get ready to search for the next Elden Rune"
+Wanderer "Oh right, you mentioned you found another Elden Rune"
+Merlin "Oh wow! You are using your brain right now?"
+Wanderer "..."
+Merlin "Alright, come on you dork"
+
+Merlin.flip(-i true)
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+Wanderer "Jeez, what's her problem?"
+Wanderer.SetPosition(0.9 0)
+Wanderer.Hide()
+hidedb(-i true)
+SetLayerMedia(background phancanh3.2), playsong(royal-classical-love)
+wait(1)
+Merlin "What's the best kind of meal when your bed's the road and your pockets are always empty"
+showdb(-i true)
+Merlin.SetPosition(0.5 0)
+Merlin.Show()
+Merlin "Right Wanderer?"
+Merlin.flip(-i true)
+Wanderer.SetPosition(0.15 0)
+Wanderer.Show()
+Wanderer "Yeah... can't even remember when I last had a proper meal"
+Merlin "Looks like we're both a little broken, huh?"
+Wanderer "I wouldn't say it's just a little"
+Merlin "Haha, don't worry about that, after this we'll be rich for sure"
+Wanderer "Why?"
+Merlin "What do you mean why? The Seigneur's gotta give us something for taking down that storm, right?"
+Wanderer "Did those words really come out of his mouth?"
+Merlin "Yes, well actually no, he didn't say it but come on, isn't it obvious? You help rich people, they throw money at you. That's how it works... right?"
+Wanderer "..."
+Merlin "Right?..."
+Wanderer "I think he said the reward for saving him and his people was an invitation to some ceremony"
+Merlin "You mean that ceremony we just went to? That was the reward?"
+Wanderer "Yeah... seems like it, doesn't it?"
+Merlin "..."
+Wanderer "Hey, don't be so down. What matters most is that we saved those people, right?"
+Merlin "We saved them... but who's gonna save me from starving?"
+Wanderer "Those Elden Runes we're collecting, don't you think they'll lead us to something big? Like some villain's hidden treasure?"
+Merlin "Actually, about those Elden Rune..."
+stopsong(royal-classical-love)
+NPC.SetPosition(0.9 0)
+NPC.flip(-i true)
+NPC.Show()
+wait(1)
+NPC.SetPosition(0.55 0)
+NPC as ??? "Yoink!"
+NPC.flip(-i true)
+NPC.SetPosition(0.9 0)
+NPC.Hide()
+wait(1)
+playsong(royal-funeral)
+Wanderer.SetPosition(0.9 0)
+Wanderer"Hey! Stop right there, you thief!"
+Wanderer.flip(-i true)
+Wanderer "Merlin! The Elden Rune, it's gone! That thief took it!"
+Merlin.flip(-i true)
+Merlin "Yeah I know, just calm down"
+Wanderer "Oh right! you can track Elden Rune"
+Merlin "Everything's going according to my plan"
+Wanderer "What?"
+Merlin "No time to talk, let's go"
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+Wanderer.flip(-i true)
+Wanderer "Huh?"
+wait(1)
+Wanderer.Hide()
+
+wait(1)
+hidedb(-i true)
+SetLayerMedia(background phancanh3.3)
+NPC.SetPosition(0.5 0), Seigneur.SetPosition(0.9 0)
+wait(1)
+showdb(-i true)
+NPC.Show(), Seigneur.Show()
+NPC as ??? "My lord!"
+Seigneur "Did you make it?"
+NPC as ??? "Yes my lord, those fools hardly even noticed as I was about to steal it"
+Seigneur "Very good! Let me see"
+NPC as ??? "As you wish, my Lord"
+NPC.SetPosition(0.7 0)
+wait(1)
+NPC.SetPosition(0.5 0)
+Seigneur "Very well, you can leave now"
+NPC as ??? "Yes my Lord!"
+wait(1)
+NPC.flip(-i true)
+NPC.SetPosition(0.1 0)
+NPC.Hide()
+wait(1)
+Seigneur "So beautiful... all mine, at last. You and I... we'll change everything"
+NPC as ??? "Wait! You followed me... How?"
+Merlin "You don't need to know"
+NPC as ??? "My Lor..."
+Seigneur "What in the world is going on out there?"
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.45 0)
+Merlin.Show(), Wanderer.Show()
+Merlin "Did you have a beautiful night, my Lord?"
+Seigneur "Uhm... May I ask what brings you two here?"
+Merlin "Just poking around, heard there's something fishy going on with those Elden Runes"
+Seigneur "I think there's been a terrible misunderstanding here"
+Merlin "And I think..."
+Wanderer "Just finish this already. Hey old man! Hand over our Elden Rune. And if you have another, give it up too"
+Merlin "I'm afraid I don't understand what you're talking about"
+Wanderer "What a waste of time"
+Wanderer.SetPosition(0.7 0)
+Merlin "Wait Wanderer!"
+
+wait(1)
+loadnextscene(PhanCanh3)

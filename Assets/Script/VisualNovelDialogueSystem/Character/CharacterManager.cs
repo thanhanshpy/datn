@@ -1,9 +1,7 @@
 using Dialouge;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
 
 namespace Characters
 {

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bc92b92156b1ffc4697194786642e682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5080626667651396576
+    second: Seigneur-Sheet_0
+  - first:
+      213: -6274407556740947806
+    second: Seigneur-Sheet_1
+  - first:
+      213: -8064616010705125214
+    second: Seigneur-Sheet_2
+  - first:
+      213: 1296856388492333709
+    second: Seigneur-Sheet_3
+  - first:
+      213: 3016901247807276868
+    second: Seigneur-Sheet_4
+  - first:
+      213: -6762198135193939245
+    second: Seigneur-Sheet_5
+  - first:
+      213: 6360519943215263736
+    second: Seigneur-Sheet_6
+  - first:
+      213: 7439319067289090167
+    second: Seigneur-Sheet_7
+  - first:
+      213: 524835082191031824
+    second: Seigneur-Sheet_8
+  - first:
+      213: 5250438056965448039
+    second: Seigneur-Sheet_9
+  - first:
+      213: 6910961791496708899
+    second: Seigneur-Sheet_10
+  - first:
+      213: -2908409304591374041
+    second: Seigneur-Sheet_11
+  - first:
+      213: -992746736260053911
+    second: Seigneur-Sheet_12
+  - first:
+      213: -8486642973090315920
+    second: Seigneur-Sheet_13
+  - first:
+      213: -2230196969553162096
+    second: Seigneur-Sheet_14
+  - first:
+      213: -6794352459970534660
+    second: Seigneur-Sheet_15
+  - first:
+      213: 6181872455322179542
+    second: Seigneur-Sheet_16
+  - first:
+      213: -332106382052563649
+    second: Seigneur-Sheet_17
+  - first:
+      213: -1752879397180574466
+    second: Seigneur-Sheet_18
+  - first:
+      213: -3991991814256414905
+    second: Seigneur-Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seigneur-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3fcb13903028640800000000000000
+      internalID: 5080626667651396576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 16
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0ed640293dce8a0800000000000000
+      internalID: -6274407556740947806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a04ef7677ab41090800000000000000
+      internalID: -8064616010705125214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8218c8a30c5ff110800000000000000
+      internalID: 1296856388492333709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4474cfd53bf2ed920800000000000000
+      internalID: 3016901247807276868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d4faaf98d722a0800000000000000
+      internalID: -6762198135193939245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff222a503b154850800000000000000
+      internalID: 6360519943215263736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 16
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7787e88c645cd3760800000000000000
+      internalID: 7439319067289090167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 16
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec8aff9b6984700800000000000000
+      internalID: 524835082191031824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 16
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7612e94489d4dd840800000000000000
+      internalID: 5250438056965448039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 16
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323657e222ba8ef50800000000000000
+      internalID: 6910961791496708899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 16
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e36a952143a7d0800000000000000
+      internalID: -2908409304591374041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9648a496a1e0932f0800000000000000
+      internalID: -992746736260053911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071036d1e23693a80800000000000000
+      internalID: -8486642973090315920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09091aa1cafbc01e0800000000000000
+      internalID: -2230196969553162096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a7a88f6c95b1a0800000000000000
+      internalID: -6794352459970534660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 16
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71042ce3c6ac550800000000000000
+      internalID: 6181872455322179542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 16
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ed1e410f146bf0800000000000000
+      internalID: -332106382052563649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 16
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef473f4b9758ca7e0800000000000000
+      internalID: -1752879397180574466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 16
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74faafc68989998c0800000000000000
+      internalID: -3991991814256414905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd143cffdb16aa44fb9d2d3423275409
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seigneur-Sheet_0: 5080626667651396576
+      Seigneur-Sheet_1: -6274407556740947806
+      Seigneur-Sheet_10: 6910961791496708899
+      Seigneur-Sheet_11: -2908409304591374041
+      Seigneur-Sheet_12: -992746736260053911
+      Seigneur-Sheet_13: -8486642973090315920
+      Seigneur-Sheet_14: -2230196969553162096
+      Seigneur-Sheet_15: -6794352459970534660
+      Seigneur-Sheet_16: 6181872455322179542
+      Seigneur-Sheet_17: -332106382052563649
+      Seigneur-Sheet_18: -1752879397180574466
+      Seigneur-Sheet_19: -3991991814256414905
+      Seigneur-Sheet_2: -8064616010705125214
+      Seigneur-Sheet_3: 1296856388492333709
+      Seigneur-Sheet_4: 3016901247807276868
+      Seigneur-Sheet_5: -6762198135193939245
+      Seigneur-Sheet_6: 6360519943215263736
+      Seigneur-Sheet_7: 7439319067289090167
+      Seigneur-Sheet_8: 524835082191031824
+      Seigneur-Sheet_9: 5250438056965448039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

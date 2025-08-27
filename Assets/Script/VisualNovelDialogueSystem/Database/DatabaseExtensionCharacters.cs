@@ -3,9 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Characters;
-using Unity.VisualScripting;
 using System.Linq;
-using UnityEngine.UIElements;
 
 
 namespace Commands
@@ -35,6 +33,7 @@ namespace Commands
             baseCommands.AddCommand("setcolor", new Func<string[], IEnumerator>(SetColor));
             baseCommands.AddCommand("highlight", new Func<string[], IEnumerator>(Highlight));
             baseCommands.AddCommand("unhighlight", new Func<string[], IEnumerator>(UnHighlight));
+            baseCommands.AddCommand("flip", new Func<string[], IEnumerator>(Flip));
         }
         private static void Sort(string[] data)
         {
@@ -398,6 +397,35 @@ namespace Commands
             parameters.TryGetValue(paramYPos, out y, defaultValue: 0);
 
             character.SetPosition(new Vector2(x, y));
+        }
+        public static IEnumerator Flip(string[] data)
+        {
+            CharacterSprite character = CharacterManager.instance.GetCharacter(data[0], createIfDoesNotExist: false) as CharacterSprite;
+            bool immediate = false;
+            float speed;
+
+            if (character == null)
+                yield break;
+
+            //Grab the extra parameters
+            var parameters = ConvertDataToParameters(data, startingIndex: 1);
+
+            //Try to get the transition speed
+            bool specifiedSpeed = parameters.TryGetValue(paramSpeed, out speed, defaultValue: 1f);
+            //Try to get the instant value
+            if (!specifiedSpeed)
+                parameters.TryGetValue(new string[] { "-i", "-immediate" }, out immediate, defaultValue: true);
+            else
+                immediate = false;
+
+            if (immediate)
+                character.Flip(immediate: true);
+            else
+            {
+                CommandManager.instance.AddTerminationActionToCurrentProcess(() => { character?.Flip(immediate: true); });
+                yield return character.Flip(speed);
+            }
+
         }
     }
 }

@@ -2,9 +2,7 @@ using Dialouge;
 using History;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Playables;
 
 namespace VisualNovel
 {
@@ -28,6 +26,7 @@ namespace VisualNovel
         public string playerName;
         public int slotNumber = 1;
 
+        public bool newGame = true;
         public string[] activeConversations;
         public HistoryState activeState;
         public HistoryState[] historyLogs;
@@ -48,6 +47,8 @@ namespace VisualNovel
         }
         public void Save()
         {
+            newGame = false;
+
             activeState = HistoryState.Capture();
             historyLogs = HistoryManager.instance.history.ToArray();
             activeConversations = GetConversationData();

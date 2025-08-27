@@ -1,12 +1,15 @@
 using Dialouge;
 using System.Collections.Generic;
 using UnityEngine;
+using static LoadScene;
 
 namespace VisualNovel
 {
     public class VNManager : MonoBehaviour
     {
         public static VNManager instance { get; private set; }
+        [SerializeField] private VisualNovelSO config;
+        public Camera mainCamera;
 
         private void Awake()
         {
@@ -14,7 +17,18 @@ namespace VisualNovel
 
             VNDatabaseLinkSetUp linkSetUp = GetComponent<VNDatabaseLinkSetUp>();
             linkSetUp.SetUpExternalLinks();
+
+            if (VNGameSave.activeFile == null)
+            {
+                VNGameSave.activeFile = new VNGameSave();
+            }               
         }
+
+        private void Start()
+        {
+            LoadGame();
+        }
+
         public void LoadFile(string filePath)
         {
             List<string> lines = new List<string>();
@@ -31,6 +45,23 @@ namespace VisualNovel
             }
 
             DialougeSystem.instance.Say(lines, filePath);
+        }
+
+        private void LoadGame()
+        {
+            if (VNGameSave.activeFile.newGame || SceneLoaderData.isLoadingFromLoadScene)
+            {
+                List<string> lines = FileManager.ReadTextAsset(config.startingFile);
+                Conversation start = new Conversation(lines);
+                DialougeSystem.instance.Say(start);
+
+                // reset
+                SceneLoaderData.isLoadingFromLoadScene = false;
+            }
+            else
+            {
+                VNGameSave.activeFile.Activate();
+            }
         }
     }
 }

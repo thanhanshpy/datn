@@ -1,8 +1,6 @@
 using System.Collections.Generic;
-using System.Xml.Serialization;
 using UnityEngine;
 using UnityEngine.Audio;
-using UnityEngine.Rendering;
 
 public class AudioManager : MonoBehaviour
 {
@@ -22,7 +20,7 @@ public class AudioManager : MonoBehaviour
         if (instance == null)
         {
             transform.SetParent(null);
-            DontDestroyOnLoad(gameObject);
+            //DontDestroyOnLoad(gameObject);
             instance = this;
         }
         else

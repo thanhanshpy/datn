@@ -1,0 +1,88 @@
+hidedb(-i true)
+SetLayerMedia(background phancanh4.2), playsong(elves)
+CreateCharacter(Merlin), CreateCharacter(Wanderer), CreateCharacter(DarkKnight)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.75 0)
+wait(2)
+showdb(-i true)
+Merlin "Finally decided to show up, huh?"
+Merlin.flip(-i true)
+Merlin.Show()
+wait(1)
+Wanderer.Show()
+
+Wanderer "Where are we?"
+Merlin "Can't you noticed? Of course this is the end of this maze"
+Wanderer "Alright... now what?"
+Merlin "Well? Got any bright ideas, genius?"
+Wanderer "Uhmm... You said there's an Elden Rune in this maze, does that mean we can take it?"
+Merlin "Oh wow, look who's suddenly smart. Did solving this maze wake up some of your brain cells?"
+Wanderer "Cut it out already. Sure, I might not know everything, but I can still think just fine"
+Merlin "Alright alright, chill out, you're just too easy to mess with, hehe"
+Wanderer "And my memory still works just fine"
+Merlin "Yeah, yeah, I get it, Mr. Memory Works Just Fine"
+Wanderer "I'm saying this because I remember asking what we're supposed to do with these Elden Runes, and you still haven't answered"
+Merlin "Oh yeah! That was me? Guess I do talk a lot"
+Wanderer "Wow. And here I thought I was the one lacking intelligence"
+Merlin "Honestly? I ignored your question on purpose. Figured if you kept quiet and just followed me, we'd gather more Elden Runes faster."
+Wanderer "You better start explaining. If the Elden Runes were supposed to seal the Demon Lord, why are they scattered now?"
+Wanderer "Don't tell me... the Demon Lord's already free? Is that what you meant by the world is in danger?"
+Merlin "Relax. The world's in danger, but not like that"
+Wanderer "Huh?"
+Merlin "Yes, the Elden Runes were used to imprison the Demon Lord, but they're not what keeps him locked away, they only helped build the prison"
+Wanderer "So how exactly is the world in danger?"
+Merlin "You've seen what these Elden Runes can really do, right?"
+Wanderer "Yeah, I remember. One created a living storm, another summoned a demon, and one even created a massive maze and an entire jungle!"
+Merlin "Exactly. If we leave those Elden Runes lying around, some greedy fool or worse, the runes themselves could become a threat. That's why I'm gathering them. To keep them out of the wrong hands"
+Wanderer "And what are you planning to do with those Elden Runes once you have them all?"
+Merlin "Oh, I don't know... maybe obliterate them into dust?"
+Wanderer "What? How?"
+Merlin "Does it even need to be asked? Using the runes to wipe out their own kind. Poetic, isn't it?"
+Wanderer "Hmmm... You're a genius!"
+Merlin "Of course I am"
+Merlin "Now let's move"
+Wanderer "Lead the way!"
+wait(1)
+Merlin.flip(-i true)
+wait(1)
+Merlin.SetPosition(0.9 0)
+Merlin.Hide()
+wait(1)
+stopsong(elves)
+Wanderer.SetPosition(0.9 0)
+Wanderer.Hide()
+
+wait(1)
+hidedb(-i true)
+wait(1)
+SetLayerMedia(background phancanh5.1), playsong(Gelmir)
+wait(1)
+Merlin "This place look creep as hell"
+showdb(-i true)
+Wanderer.SetPosition(0 0), Merlin.SetPosition(0.75 0)
+Merlin.Show()
+Wanderer.Show()
+Wanderer "I don't know why but I kind of like this place"
+Merlin "Really?"
+Merlin.flip(-i true)
+Merlin "Hmm... actually it does seem right"
+Wanderer "What do you mean by that?"
+Merlin "Nothing, keep moving"
+Merlin.flip(-i true)
+DarkKnight "Stop!"
+Merlin.SetPosition(0.35 0)
+Merlin "Wah!"
+DarkKnight.SetPosition(0.9 0)
+DarkKnight.flip(-i true)
+wait(1)
+DarkKnight.Show()
+DarkKnight "You shouldn't be here, stranger. Go back while you still can"
+Merlin "Deal! You give me that shiny thing, and we're out of here"
+DarkKnight "No one's giving anything to anyone. Leave. Now"
+Merlin "At least I tried, Wanderer"
+Wanderer.SetPosition(0.4 0), Merlin.SetPosition(0 0)
+Wanderer "Listen, we don't have time to argue. Give us the Elden Rune, the fate of the world depends on it"
+DarkKnight "Yes, it does and no, you're not getting it. That was your final warning. Now walk away"
+Wanderer "At least it's a person this time"
+
+wait(1)
+loadnextscene(PhanCanh5)

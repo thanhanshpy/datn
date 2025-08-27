@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using System.Net.NetworkInformation;
 using System.Linq;
 
 namespace Dialouge

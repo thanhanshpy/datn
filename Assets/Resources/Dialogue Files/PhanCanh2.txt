@@ -1,0 +1,79 @@
+CreateCharacter(Merlin), CreateCharacter(Wanderer), playambience(RainyMood)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.75 0)
+
+hidedb(-i true)
+wait(2)
+showdb(2f -i false)
+wait(1)
+Wanderer.Show()
+wait(1)
+Merlin.Show()
+
+Wanderer "What is this place?"
+Merlin "Hmm... interesting..."
+Wanderer "What?"
+Merlin "This is... maybe..."
+Wanderer "Merlin?"
+Merlin "So the Elden Rune itself can do such a thing..."
+Wanderer "Earth to Merlin!"
+Merlin "Didn't know those things had so much potential...."
+Wanderer "MEEEEERLIIIIIIIN!!!"
+Merlin.flip(-i true)
+Merlin "Wah... {wc 1} That gave me a heart attack!"
+Wanderer "Stop talking to yourself!"
+Merlin "Oopsie! I got distracted... {wa 1} again"
+Wanderer "Can you please explain what's happening?"
+Merlin "Of what?"
+Wanderer "This place... those houses, all empty? And that strange storm?"
+Merlin "Maybe the villagers evacuated, but that storm... can you tell me what's going on with it?"
+Wanderer "I don't know... {wa 1}It's howling... and not moving? That's not normal, storms usually keep moving, right?"
+Merlin "That right! Any idea what that storm is made from?"
+Wanderer "I don't kmow, I'm not an expert about natural disaster"
+Merlin "Come on! You do"
+Wanderer "I'm not..."
+Merlin "Yes, you are..."
+Wanderer "Stop this Merlin"
+Merlin "You do know.... wait... you don't"
+Wanderer "..."
+Merlin "Only me can feel magic"
+Wanderer "..."
+Merlin "Oopsie! hehe"
+Wanderer "So what does magic have to do with that storm?"
+Merlin "The Elden Rune... it created that storm"
+Wanderer "Oh... Okay... {wc 2}What is Elden Rune?"
+Merlin "..."
+Wanderer "..."
+Merlin "Seriously?"
+Wanderer "Uhh... Do i have to know?"
+Merlin "Of course you have to know, the Elden Runes have protected the world for ages"
+Wanderer "From what?"
+Merlin "..."
+Wanderer "... {wc 1}What?"
+Merlin "Bro, what rock have you been living under?"
+Wanderer "If it's that important, you can teach me later but not now"
+Merlin "Okay you dork"
+Wanderer "..."
+Merlin "Wanderer?"
+Wanderer "Is it just me... or is that storm moving toward us?"
+Merlin "Huh?"
+Merlin.flip(-i true)
+Merlin "Holy......"
+
+playsfx(thunder_strong_01)
+SetLayerMedia(background battlefield1)
+hidedb(-i true), Wanderer.Hide(), Merlin.Hide()
+
+wait(1)
+Wanderer "Where are we?"
+showdb(2f -i false)
+wait(1)
+Wanderer.flip(-i true)
+Wanderer.Show()
+wait(1)
+Merlin.Show()
+Merlin "Wanderer... do you see this?"
+Wanderer.flip(-i true)
+Wanderer "See wha...."
+Merlin "Look out, Wanderer! It's heading straight for us!"
+wait(1)
+loadnextscene(PhanCanh2)

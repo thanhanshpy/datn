@@ -1,6 +1,4 @@
-using Dialouge;
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace History
 {

@@ -1,0 +1,38 @@
+hidedb(-i true)
+SetLayerMedia(background phancanh5.1), playsong(Shadows)
+CreateCharacter(Wanderer), CreateCharacter(Merlin)
+Wanderer.SetPosition(0.15 0), Merlin.SetPosition(0.75 0)
+wait(2)
+showdb(-i true)
+Wanderer "What?... Why?... Merlin?"
+Merlin.flip(-i true)
+Merlin.Show()
+wait(1)
+Wanderer.Show()
+
+Merlin "I must say, I couldn't have done it better myself. Thanks for collecting the runes"
+Wanderer "Why you do this? This is not funny at all Merlin!"
+Merlin "Ugh, I could explain it... but it's not like you'd grasp more than half of it"
+Wanderer "Merlin!!?!?!"
+Merlin "Oh please, you can stop calling me that, such a horrible name for a mighty lord like me"
+Wanderer "Lord?"
+Merlin as Demon Lord "Hoho, look who's thinking again, did a few of those dusty brain cells finally spark back to life?"
+Wanderer "No way, you were imprisoned. There's no way you got out... unless..."
+Merlin as Demon Lord "Indeed, I was bound and now, I walk free. Strange, isn't it?"
+Wanderer "..."
+Merlin as Demon Lord "When I said your petty kind could hold me captive... I lied"
+Merlin as Demon Lord "They thought they'd won, locking away my body like some trophy. But my mind? My will? Untouched. Unbroken. Free"
+Merlin as Demon Lord "This one? Her mind crumbled before I even tried. Pathetic. It was almost disappointing how easy it was"
+Merlin as Demon Lord "And then there's you, the missing piece. Tell me, haven't you ever questioned the source of your power?"
+Wanderer "No...?"
+Merlin as Demon Lord "Oh, you poor fool. Did you really believe your strength could match the power of an Elden Rune? That's adorable"
+Merlin as Demon Lord "It takes an Elden Rune to destroy an Elden Rune. And somehow, you ended up with one. What a pathetic joke"
+Wanderer "Impossible, you're lying!!. I don't have a single one of these"
+Merlin as Demon Lord "Seriously? You already forgot I can track Elden Runes? You thought a witch like me would be caught off guard by a slime? Oh no, darling... that was all part of the plan"
+Merlin as Demon Lord "Your power... it's still asleep, buried deep inside. But all it needed was a little nudge. Funny, isn't it? So many trials, so much chaos, every piece falling into place. And now, the path is mine to claim"
+Wanderer "I.. won't... let... you"
+Merlin as Demon Lord "Oh, come now, why not just stay down and die like that foolish knight over there? As for me, the Elden Runes are finally mine. I'm free at last... and this world?"
+Merlin as Demon Lord "IT WILL BE TORN APART BY MY HAND"
+
+wait(1)
+loadnextscene(GameOver)

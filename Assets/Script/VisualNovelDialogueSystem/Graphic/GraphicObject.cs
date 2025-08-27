@@ -1,10 +1,8 @@
 using System.Collections;
-using System.Net.NetworkInformation;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
-using static System.Net.Mime.MediaTypeNames;
 
 public class GraphicObject 
 {

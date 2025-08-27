@@ -1,0 +1,33 @@
+CreateCharacter(Merlin), PlaySong(Opening)
+CreateCharacter(Slime)
+CreateCharacter(Wanderer)
+SetLayerMedia(background Intro)
+
+Merlin as ??? "In ages long forgotten, when the Demon Lord still ravaged the realms..."
+"All creation groaned, the earth was scorched, and the heavens were veiled in shadow..."
+"As hope withered and the end loomed ever closer..."
+SetLayerMedia(background Intro2)
+"From obscurity came a nameless brotherhood of the bold..."
+"Before the Demon King they stood, unyielding their blades drawn for every soul yet to breathe..."
+"A struggle steeped in pain and silence where blood was offered, choices carved the future, and truths were forever lost to shadow..."
+"The ground quaked beneath their struggle, and their tale endured, whispered from age to age as ancient myth..."
+"They were The Forsworn Knights their sacrifice gave rise to life itself, yet beneath that rebirth lay a past forever buried in nowhere."
+Slime as ??? "brougbrougbroug"
+Merlin as ??? "Huh?"
+Slime.Show(), Slime.SetPosition(0.75 0), Slime.flip(-i true)
+Slime "awaoaawaoaawoa"
+Merlin.Show(), Merlin.SetPosition(0.15 0)
+Merlin as ??? "What the...."
+Slime "ouuuuu"
+Slime.SetPosition(0.45 0)
+Merlin as ??? "Oh good lord {wc 0.5}I'm going to be eaten by a slime{wc 0.5}HELP!!!{wc 0.5}Someone help me end this miserable creature's life!!!"
+Wanderer as ??? "What is that noise over there?"
+
+wait(1)
+loadnextscene(PhanCanh1)
+
+
+
+
+
+
